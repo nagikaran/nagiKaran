@@ -7,4 +7,4 @@ I'm a java developer from India. I build API's in SpringBoot. You can often see 
 💬 Ask me about Spring and Spring Boot.
 
 Languages and Tools:
-java spring mysql postman git css3 html5 javascript
+java,spring,mysql,postman,git,css3,html5,javascript
